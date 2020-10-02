@@ -11,9 +11,9 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <?php include 'partials/_nav.php'; ?>
-    <?php include 'partials/slider.php';?>
-    <?php include 'partials/footer.php';?>
+    <?php include '_nav.php'; ?>
+    <?php include 'slider.php';?>
+    <?php include 'footer.php';?>
    
    
 
